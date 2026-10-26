@@ -1,4 +1,4 @@
-# Activity 1 – PAVLOVA Emulator Replication
+# Activity 3 – PAVLOVA Emulator Replication
 
 ## Activity Overview
 This repository contains my submission for Activity 1, where I replicated the PAVLOVA app interface by following the steps demonstrated in the Activity 1 PAVLOVA recording.
