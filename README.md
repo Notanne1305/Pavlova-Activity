@@ -1,17 +1,11 @@
-# pavlova_activity
+# Activity 1 – PAVLOVA Emulator Replication
 
-A new Flutter project.
+## Activity Overview
+This repository contains my submission for Activity 1, where I replicated the PAVLOVA app interface by following the steps demonstrated in the Activity 1 PAVLOVA recording.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements Checklist
+- [x] App replicated on emulator following the PAVLOVA recording
+- [x] Screenshot of the emulator taken
+- [x] Screenshot clearly shows the App Bar with my last name
+- [x] GitHub link included (this repository)
+- [x] Proper screenshot included
